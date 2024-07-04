@@ -1,0 +1,56 @@
+.nav-item
+{
+    font-weight: bold;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: large;
+}
+
+.fa-solid fa-cart-shopping
+{
+    font-size: larger;
+}
+
+.product-device {
+    position: absolute;
+    background-image: url(woman-wearing-high-heels-stocking.jpg);
+    background-size: 198%;
+    
+    right: 10%;
+    bottom: -30%;
+    width: 300px;
+    height: 540px;
+    background-color: #333;
+    border-radius: 21px;
+    transform: rotate(30deg);
+}
+.product-device background-image
+{
+    padding: 100px;
+}
+
+.product-device-2 {
+    background-image: url(portrait-handsome-smiling-stylish-young-man-model-wearing-jeans-clothes-sunglasses-fashion-man.jpg);
+    background-size: cover;
+    top: -25%;
+    right: auto;
+    bottom: 0;
+    left: 5%;
+    background-color: #2c2929;
+}
+
+
+
+.container-form
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+      
+}
+
+.form-floating
+{
+    width: 500px;
+}
